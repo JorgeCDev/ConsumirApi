@@ -1,0 +1,16 @@
+$theme-colors:(
+
+    "primary": #323233,
+    "teclila": #7A0796,
+    "tecnaranja":#EF6B01,
+  
+);
+$input-border-color: #fff;
+$input-bg: #323233;
+$card-bg:#323233;
+//$input-border-color:                    #EF6B01;
+//$white:#323233;
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
